@@ -23,5 +23,5 @@ En este ejemplo, trabajamos con dos displays de siete segmentos de cátodo comú
 Crea dos pines de salida digitales de 7 pines cada uno. Recuerda colocarles strong drive (switch de 0 a 5V), posterior a esto, dependiendo de si tu display es Cátodo Común o Ánodo Común, deberás elegir su estado inicial como 0 o 1 respectivamente.
 
 **CAPTURA DE LA CONFIGURACIÓN DE PINES:**
-![Captura de pantalla de la configuración de pines en PSoC Creator para cátodo común](./img/configuracion_psoc.png)
+![Captura de pantalla de la configuración de pines en PSoC Creator para cátodo común](./img/pines.png)
 
