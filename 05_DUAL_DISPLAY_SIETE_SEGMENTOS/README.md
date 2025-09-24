@@ -17,7 +17,7 @@ La librería convierte un número de 8 bits en su representación de dos dígito
 En este ejemplo, trabajamos con dos displays de siete segmentos de cátodo común. Lo que quiere decir que requiere un 1 (o 5 volts) para prender. A diferencia de un ánodo común donde necesita un 0 (o 0 volts) para prender. Sigue el siguiente diagrama de conexión. El diagrama no cambia mucho con un ánodo común, simplemente en vez de conectar tierra (VSS) conectarás voltaje (VCC).
 
 **DIAGRAMA DEL CIRCUITO:**
-![Diagrama de conexión del PSoC a dos displays de 7 segmentos de cátodo común](./img/diagrama_conexion.png)
+![Diagrama de conexión del PSoC a dos displays de 7 segmentos de cátodo común](./img/diagrama.png)
 
 ## Configuración de Pines
 Crea dos pines de salida digitales de 7 pines cada uno. Recuerda colocarles strong drive (switch de 0 a 5V), posterior a esto, dependiendo de si tu display es Cátodo Común o Ánodo Común, deberás elegir su estado inicial como 0 o 1 respectivamente.
