@@ -13,6 +13,7 @@ Bienvenido al Laboratorio PSoC, un repositorio educativo diseñado para estudian
 - 03_RGB_LED *pendiente*
 - 04_DISPLAY_SIETE_SEGMENTOS *pendiente*
 - 05_DUAL_DISPLAY_SIETE_SEGMENTOS [DDisplay](05_DUAL_DISPLAY_SIETE_SEGMENTOS)
+- 06_LED_BAR [LedBar](06_LED_BAR)
 
 ## REQUISITOS
 - PSoC Creator.
