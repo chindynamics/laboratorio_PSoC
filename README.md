@@ -14,6 +14,7 @@ Bienvenido al Laboratorio PSoC, un repositorio educativo diseñado para estudian
 - 04_DISPLAY_SIETE_SEGMENTOS *pendiente*
 - 05_DUAL_DISPLAY_SIETE_SEGMENTOS [DDisplay](05_DUAL_DISPLAY_SIETE_SEGMENTOS)
 - 06_LED_BAR [LedBar](06_LED_BAR)
+- 07_TECLADO_MATRICIAL_4X4 [TecladoMatricial](07_TECLADO_MATRICIAL_4X4)
 
 ## REQUISITOS
 - PSoC Creator.
