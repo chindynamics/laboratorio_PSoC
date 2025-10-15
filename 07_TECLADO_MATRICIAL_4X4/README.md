@@ -6,4 +6,4 @@ El objetivo de esta práctica es desarrollar un sistema embebido capaz de leer e
 
 Un teclado matricial 4x4 consiste en 16 interruptores de pulsador momentáneo organizados en una matriz de 4 filas y 4 columnas. En lugar de requerir 16 pines dedicados, esta topología reduce el requisito a solo 8 pines (4 para filas y 4 para columnas). Internamente, cada interruptor se encuentra en la intersección de una línea de fila y una de columna. En su estado de reposo, todos los interruptores están en un circuito abierto, impidiendo el flujo de corriente entre filas y columnas. Al presionar un botón, se cierra el circuito en esa intersección específica, creando una conexión eléctrica directa entre su fila y columna correspondiente.
 
-![Diagrama de Conexión de un Teclado Matricial de 4x4](.img/teclado.png)
+![Diagrama de Conexión de un Teclado Matricial de 4x4](./img/teclado.png)
